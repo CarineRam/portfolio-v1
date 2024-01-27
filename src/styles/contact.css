@@ -1,0 +1,21 @@
+.contact{
+    background-color: #004e64;
+    color: #fff;
+    font-family: "Alata", sans-serif;
+    padding-top: 3vh;
+    padding-bottom: 5vh;
+    margin-top: 15vh;
+    font-size: 1.5vw;
+}
+
+.logo_contact{
+    height: 10vh;
+    
+}
+
+.contact_description{
+    line-height: 2;
+    color: #fff;
+    font-family: 'Alata', sans-serif;
+    font-size: 1.5vw;
+}

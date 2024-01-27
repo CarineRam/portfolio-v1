@@ -1,0 +1,65 @@
+.start {
+    background-color: #004e64;
+    color: #9cbde7;
+    font-family: "Alata", sans-serif;
+    font-size: 2vw;
+    padding-bottom: 35vh;
+    padding-top: 30vh;
+}
+
+
+.name{
+    font-family: 'Quantico', sans-serif;
+    color: #fff;
+    font-style: italic;
+}
+
+.task{
+    font-family: 'Quantico', sans-serif;
+}
+
+.work{
+    font-family: 'Quantico', sans-serif;
+    color: #15c2cb;
+}
+
+.works{
+    background-color: #9cbde7;
+    padding-bottom: 12vh;
+    margin-top: -15vh;
+    padding-top: 7vh;
+}
+
+
+.title{
+    padding-left: 20vw;
+    color : #004e64;
+    font-family: 'Quantico', sans-serif;
+    font-size: 8vw;
+    margin-bottom: 60vh;   
+}
+
+.maquette{
+    width: 40vw;
+    height: auto;
+    margin-top: 2vh;
+}
+
+.maquette_title{
+    font-size: 3vw;
+    margin-top: 10vh;
+    color : #004e64;
+    font-family: 'Quantico', sans-serif;
+}
+
+.maquette_description{
+    line-height: 2;
+    color: #fff;
+    font-family: 'Alata', sans-serif;
+    font-size: 1.1vw;
+}
+
+
+
+
+

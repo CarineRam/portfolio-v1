@@ -1,0 +1,22 @@
+.skills{
+    margin-top: 15vh;
+    margin-left: 20vw;
+    background-color: #004e64;
+    padding-bottom: 5vh;
+}
+
+.title1{
+    padding-left: 27vw;
+    color : #fff;
+    font-family: 'Quantico', sans-serif;
+    font-size: 8vw;
+     
+}
+
+.skills_image{
+    height: 15vh;
+}
+
+.skills_row{
+    padding-bottom: 8vh;
+}
